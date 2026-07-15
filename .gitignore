@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Generated files
+output/merged.pdf
